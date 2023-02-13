@@ -1,0 +1,14 @@
+{
+  "toDo": [
+    {
+      "id": 1,
+      "name": "Learn Javascript",
+      "isDone": true
+    },
+    {
+      "id": 2,
+      "name": "Learn React",
+      "isDone": false
+    }
+  ]
+}
